@@ -1,5 +1,8 @@
-.titulo{
+*{
     margin: 0;
-    font-size: 12px;
-    font-style: normal;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
 }
